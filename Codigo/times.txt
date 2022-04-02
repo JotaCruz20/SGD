@@ -1,0 +1,111 @@
+Customer load time: 56.363564014434814
+LineItem load time: 4245.577505111694
+Nation load time: 0.0010030269622802734
+Part load time: 92.74214458465576
+Partsupp load time: 280.6978135108948
+Region load time: 0.0010290145874023438
+Supplier load time: 3.400805950164795
+Total load time: 5278.376705169678
+Customer load time: 116.49985885620117
+LineItem load time: 3322.0040979385376
+Nation load time: 0.04737496376037598
+Part load time: 132.06630420684814
+Partsupp load time: 374.9015483856201
+Region load time: 0.05429506301879883
+Supplier load time: 4.838199615478516
+Total load time: 5126.37468290329
+Customer load time: 67.94620037078857
+LineItem load time: 3865.6096873283386
+Nation load time: 0.16254353523254395
+Part load time: 115.84920692443848
+Partsupp load time: 1124.752494096756
+Region load time: 0.026909589767456055
+Supplier load time: 14.326775074005127
+Total load time: 6830.687315940857
+Customer load time: 81.44888639450073
+LineItem load time: 4653.037046670914
+Nation load time: 1.0300095081329346
+Part load time: 116.25032448768616
+Partsupp load time: 666.15451836586
+Region load time: 0.06405901908874512
+Supplier load time: 14.330949068069458
+Total load time: 6961.506361961365
+Customer load time: 88.05522632598877
+LineItem load time: 4415.195194482803
+Nation load time: 0.0649423599243164
+Part load time: 86.23097586631775
+Partsupp load time: 325.0008637905121
+Region load time: 0.2889888286590576
+Supplier load time: 3.784754991531372
+Total load time: 5528.210770845413
+Total for query 1: 8345.886459827423
+Total for query 2: TimeOut
+Total for query 3: 3953.395591020584
+Total for query 4: 3650.9181916713715
+Total for query 5: 2587.814547777176
+Total for query 6: 507.9206871986389
+Total for query 7: 1045.1815013885498
+Total for query 8: 1007.780522108078
+Total for query 9: 6654.515611171722
+Total for query 10: 1534.8709244728088
+Total for query 11: 107.16583919525146
+Total for query 12: 2129.42982506752
+Total for query 13: 1331.4522573947906
+Total for query 14: 696.1337747573853
+Total for query 15: 1094.0223944187164
+Total for query 16: 151.40397477149963
+Total for query 17: TimeOut
+Total for query 18: 1413.9234755039215
+Total for query 19: 289.775431871442
+Total for query 20: TimeOut
+Total for query 21: TimeOut
+Total for query 22: 4555.847833156586
+Total for query 1: 306.13211011886597
+Total for query 2: 437.9790117740631
+Total for query 3: 1410.376853942871
+Total for query 4: 637.913224697113
+Total for query 5: 1536.6841790676117
+Total for query 6: 274.16978216171265
+Total for query 7: 711.7762153148651
+Total for query 8: 480.0727484226227
+Total for query 9: 3763.636801958084
+Total for query 10: 1019.4091424942017
+Total for query 11: 83.95213317871094
+Total for query 12: 1588.6798753738403
+Total for query 13: 671.6889629364014
+Total for query 14: 395.6403980255127
+Total for query 15: 597.1227011680603
+Total for query 16: 96.37118601799011
+Total for query 17: TimeOut
+Total for query 18: 2781.271014690399
+Total for query 19: 290.1248450279236
+Total for query 20: TimeOut
+Total for query 21: TimeOut
+Total for query 22: 672.2855904102325
+Total for addKeys: 4387.928750753403
+Total for addKeys: 3702.7157332897186
+Total for queries [1, 2, 3]: [310.7880804538727, 382.393917798996, 1339.7816278934479]
+Total for queries [1, 2, 3, 4, 5]: [315.35234928131104, 531.6344814300537, 1166.7148773670197, 730.1638405323029, 1418.58580327034]
+Total for queries [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]: [308.7326190471649, 467.7024133205414, 1271.5567560195923, 651.530529499054, 1186.1251759529114, 414.347149848938, 921.7851564884186, 519.375864982605, 3737.1276314258575, 1008.0632424354553]
+Total for query 1: 708.7232954502106
+Total for query 2: 533.9217548370361
+Total for query 3: 1307.439825296402
+Total for query 4: 932.0342333316803
+Total for query 5: 1172.851229429245
+Total for query 6: 278.79943656921387
+Total for query 7: 680.2208824157715
+Total for query 8: 14375.459995746613
+Total for query 9: TimeOut
+Total for query 10: 1888.910145521164
+Total for query 11: 3019.5718142986298
+Total for query 12: 1637.3856003284454
+Total for query 13: 1008.9060459136963
+Total for query 14: 426.661269903183
+Total for query 15: 710.8232910633087
+Total for query 16: 126.88344049453735
+Total for query 17: TimeOut
+Total for query 18: 2175.2314596176147
+Total for query 19: 7063.598852157593
+Total for query 20: TimeOut
+Total for query 21: 1396.0097026824951
+Total for query 22: 3497.0711238384247
